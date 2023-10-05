@@ -10,7 +10,7 @@ function cadastrar() {
   } else if (idade < 18) {
     alert('Você ainda não possui idade suficiente.');
   } else {
-    var link = 'https://umjovemprogramador.github.io/FAAVY-2.0/'; //Colocar link aonde o botão cadastre-se deve levar
+    var link = 'https://umjovemprogramador.github.io/MTS-2.0/'; //Colocar link aonde o botão cadastre-se deve levar
     window.location.href = link;
   }
 }
