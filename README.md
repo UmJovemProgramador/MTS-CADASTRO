@@ -1,3 +1,3 @@
 # MTS-CADASTRO
 
-https://umjovemprogramador.github.io/MTS-CADASTRO/
+https://mts-cadastro.vercel.app/
