@@ -23,7 +23,7 @@ function login() {
     alert('Por favor, preencha todos os campos antes de cadastrar.');
   } else {
     // Redirecionar para a página desejada após o cadastro bem-sucedido
-    var link = 'https://mts-cadastro.vercel.app/login.html'; 
+    var link = 'https://umjovemprogramador.github.io/mts-login/'; 
     window.location.href = link;
   }
 }
