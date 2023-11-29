@@ -23,7 +23,7 @@ function login() {
     alert('Por favor, preencha todos os campos antes de cadastrar.');
   } else {
     // Redirecionar para a página desejada após o cadastro bem-sucedido
-    var link = 'https://mts-4-0.vercel.app/'; 
+    var link = 'https://mts-cadastro.vercel.app/login.html'; 
     window.location.href = link;
   }
 }
