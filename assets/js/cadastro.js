@@ -23,7 +23,7 @@ function login() {
     alert('Por favor, preencha todos os campos antes de cadastrar.');
   } else {
     // Redirecionar para a página desejada após o cadastro bem-sucedido
-    var link = 'https://umjovemprogramador.github.io/mts-login/'; 
+    var link = ''; 
     window.location.href = link;
   }
 }
