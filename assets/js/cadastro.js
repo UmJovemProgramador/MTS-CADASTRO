@@ -23,7 +23,7 @@ function login() {
     alert('Por favor, preencha todos os campos antes de cadastrar.');
   } else {
     // Redirecionar para a página desejada após o cadastro bem-sucedido
-    var link = 'https://umjovemprogramador.github.io/MTS-2.0/'; 
+    var link = 'https://mts-4-0.vercel.app/'; 
     window.location.href = link;
   }
 }
